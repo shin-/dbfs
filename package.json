@@ -1,0 +1,25 @@
+{
+  "name": "dbfs",
+  "version": "0.0.1",
+  "description": "File persistence in datastores. Imitates the fs module API/interface to act as a drop-in replacement on stateless machines (PaaS, etc.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests yet'"
+  },
+  "dependencies": {
+    "redis": "0.8.x",
+    "everypaas": "0.0.7"
+  },
+  "repository": "",
+  "keywords": [
+    "fs",
+    "redis",
+    "mongodb",
+    "filesystem",
+    "persistence",
+    "paas",
+    "dotcloud"
+  ],
+  "author": "Joffrey F <joffrey@dotcloud.com>",
+  "license": "MIT"
+}
