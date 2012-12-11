@@ -2,7 +2,7 @@
   "name": "dbfs",
   "version": "0.0.1",
   "description": "File persistence in datastores. Imitates the fs module API/interface to act as a drop-in replacement on stateless machines (PaaS, etc.)",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo 'No tests yet'"
   },
